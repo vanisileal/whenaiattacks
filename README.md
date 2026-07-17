@@ -9,8 +9,8 @@ CISOs, CSOs, security leaders, and the board — anyone accountable for navigati
 
 **#In this repository**
 
-Non-Human Identities — machine credentials and AI agent identity governance (add each workbook as it's published)
-Workbooks are published here as PDFs. The canonical articles live at https://whenaiattacks.ai/
+Non-Human Identities — machine credentials and AI agent identity governance
+Workbooks live in /workbooks, published as PDFs. The canonical articles live at https://whenaiattacks.ai/
 
 **#Usage**
 
