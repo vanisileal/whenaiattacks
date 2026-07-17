@@ -1,0 +1,3942 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 15099
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .066667 .066667 rg
+n 0 760 612 32 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 772 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 114.704 772 Tm (  \267  Digital Content #5  \267  Threat Assessment Workbook  \267  Ghost Agent) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 552.384 772 Tm (1 of 4) Tj T* ET
+.545098 .180392 .180392 RG
+1.5 w
+n 0 760 m 612 760 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 28 m 612 28 l S
+.933333 .933333 .933333 rg
+n 0 0 612 28 re f*
+.4 .4 .4 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 39.6 15 Tm (whenaiattacks.ai  \267  \251 2026 When AI Attacks, operated by Mar\351 LLC. All rights reserved.) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 451.1325 15 Tm (CONFIDENTIAL \227 INTERNAL USE) Tj T* ET
+Q
+q
+1 0 0 1 39.6 723.28 cm
+Q
+q
+1 0 0 1 39.6 712.28 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (THREAT ASSESSMENT WORKBOOK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 699.28 cm
+q
+0 .011765 .2 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Digital Content #5 \227 Ghost Agent: The Attack That Was Never There) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 690.64 cm
+Q
+q
+1 0 0 1 39.6 648.64 cm
+q
+.545098 .180392 .180392 rg
+n 0 42 4 -42 re f*
+.941176 .941176 .941176 rg
+n 4 42 528.8 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 22 Tm  T* ET
+q
+1 0 0 1 16 10 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf 0 .011765 .2 rg (Purpose:) Tj /F1 8 Tf ( Assess your organization\222s exposure to Ghost Agent attacks \227 where a malicious AI agent executes an unauthorized task and) Tj T* (self-terminates, leaving no forensic trace. Map the governance gap, assign ownership, and build a prioritized response plan.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 39.6 638.56 cm
+Q
+q
+1 0 0 1 39.6 623.56 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Exposure Check) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 620.68 cm
+Q
+q
+1 0 0 1 39.6 610.68 cm
+q
+0 .019608 .333333 rg
+BT 1 0 0 1 0 2.5 Tm /F3 7.5 Tf 10 TL (Answer Yes / No / Unknown for your environment. Every Unknown is a gap. Three or more Unknowns = this is your next tabletop agenda.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 345.68 cm
+q
+.066667 .066667 .066667 rg
+n 0 261 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 244 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 216 532.8 -28 re f*
+.980392 .972549 .960784 rg
+n 0 188 532.8 -38 re f*
+.960784 .952941 .937255 rg
+n 0 150 532.8 -38 re f*
+.980392 .972549 .960784 rg
+n 0 112 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 84 532.8 -28 re f*
+.980392 .972549 .960784 rg
+n 0 56 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 28 532.8 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 248 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.432 248 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 13.2495 0 Td (Yes) Tj T* -13.2495 0 Td ET
+Q
+Q
+q
+1 0 0 1 287.384 248 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 14.8105 0 Td (No) Tj T* -14.8105 0 Td ET
+Q
+Q
+q
+1 0 0 1 335.336 248 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 4.6555 0 Td (Unknown / Gap) Tj T* -4.6555 0 Td ET
+Q
+Q
+q
+1 0 0 1 404.6 248 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 220 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Do you have a current inventory of all production AI agents) Tj T* (operating in your environment?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 225.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 225.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 225.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 230 Tm  T* ET
+q
+1 0 0 1 5 192 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (For each agent, is there a documented list of tools, APIs, and) Tj T* (egress channels it is provisioned to call?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 202 Tm  T* ET
+q
+1 0 0 1 5 154 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Do agents processing external documents or data sources have) Tj T* (content inspection at the full parse layer \(including metadata and) Tj T* (non-rendered fields\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 174 Tm  T* ET
+q
+1 0 0 1 5 116 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Are agent sessions logged at the intent level \227 not just activity) Tj T* (\(what was called\), but goal state \(what was the agent attempting to) Tj T* (accomplish\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 126.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 126.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 126.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 136 Tm  T* ET
+q
+1 0 0 1 5 88 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Do you have per-session behavioral baselines established for) Tj T* (high-privilege agents?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 98 Tm  T* ET
+q
+1 0 0 1 5 60 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL -0.013286 Tw (Is there semantic monitoring on agent-to-webhook and agent-to-API) Tj T* 0 Tw (outbound payloads?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 70 Tm  T* ET
+q
+1 0 0 1 5 32 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Are agent privileges scoped at the task level within a session, not) Tj T* (only at the role level?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 42 Tm  T* ET
+q
+1 0 0 1 5 4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Does your IR playbook include a defined scenario for suspected) Tj T* (agent compromise with no forensic confirmation?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 14 Tm  T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 261 m 532.8 261 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 261 l S
+n 532.8 0 m 532.8 261 l S
+n 0 244 m 532.8 244 l S
+n 0 216 m 532.8 216 l S
+n 0 188 m 532.8 188 l S
+n 0 150 m 532.8 150 l S
+n 0 112 m 532.8 112 l S
+n 0 84 m 532.8 84 l S
+n 0 56 m 532.8 56 l S
+n 0 28 m 532.8 28 l S
+n 234.432 0 m 234.432 261 l S
+n 282.384 0 m 282.384 261 l S
+n 330.336 0 m 330.336 261 l S
+n 399.6 0 m 399.6 261 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 244 m 532.8 244 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 337.04 cm
+Q
+q
+1 0 0 1 39.6 329.04 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 1.5 Tm /F2 6.5 Tf 8 TL (AGENT INVENTORY \(list production agents, intake surfaces, and egress channels\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 325.16 cm
+Q
+q
+1 0 0 1 39.6 180.16 cm
+q
+.066667 .066667 .066667 rg
+n 0 145 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 128 532.8 -32 re f*
+.960784 .952941 .937255 rg
+n 0 96 532.8 -32 re f*
+.980392 .972549 .960784 rg
+n 0 64 532.8 -32 re f*
+.960784 .952941 .937255 rg
+n 0 32 532.8 -32 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Agent Name / Role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 122.216 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Intake Source\(s\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.432 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Egress Channels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.648 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Intent Logging?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.24 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 124 cm
+Q
+q
+1 0 0 1 122.216 124 cm
+Q
+q
+1 0 0 1 239.432 124 cm
+Q
+q
+1 0 0 1 356.648 124 cm
+Q
+q
+1 0 0 1 431.24 124 cm
+Q
+q
+1 0 0 1 5 92 cm
+Q
+q
+1 0 0 1 122.216 92 cm
+Q
+q
+1 0 0 1 239.432 92 cm
+Q
+q
+1 0 0 1 356.648 92 cm
+Q
+q
+1 0 0 1 431.24 92 cm
+Q
+q
+1 0 0 1 5 60 cm
+Q
+q
+1 0 0 1 122.216 60 cm
+Q
+q
+1 0 0 1 239.432 60 cm
+Q
+q
+1 0 0 1 356.648 60 cm
+Q
+q
+1 0 0 1 431.24 60 cm
+Q
+q
+1 0 0 1 5 28 cm
+Q
+q
+1 0 0 1 122.216 28 cm
+Q
+q
+1 0 0 1 239.432 28 cm
+Q
+q
+1 0 0 1 356.648 28 cm
+Q
+q
+1 0 0 1 431.24 28 cm
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 145 m 532.8 145 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 145 l S
+n 532.8 0 m 532.8 145 l S
+n 0 128 m 532.8 128 l S
+n 0 96 m 532.8 96 l S
+n 0 64 m 532.8 64 l S
+n 0 32 m 532.8 32 l S
+n 117.216 0 m 117.216 145 l S
+n 234.432 0 m 234.432 145 l S
+n 351.648 0 m 351.648 145 l S
+n 426.24 0 m 426.24 145 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 128 m 532.8 128 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 759 612 33 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0435   \267   AI Threat Assessment Workbook   \267   Ghost Agent) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(1 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+1 1 1 rg
+n
+37 710 166 14 re
+f*
+0.545098 0.180392 0.180392 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 40 713.89 Tm
+(AI THREAT ASSESSMENT WORKBOOK) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 20127
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .066667 .066667 rg
+n 0 760 612 32 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 772 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 114.704 772 Tm (  \267  Digital Content #5  \267  Threat Assessment Workbook  \267  Ghost Agent) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 552.384 772 Tm (2 of 4) Tj T* ET
+.545098 .180392 .180392 RG
+1.5 w
+n 0 760 m 612 760 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 28 m 612 28 l S
+.933333 .933333 .933333 rg
+n 0 0 612 28 re f*
+.4 .4 .4 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 39.6 15 Tm (whenaiattacks.ai  \267  \251 2026 When AI Attacks, operated by Mar\351 LLC. All rights reserved.) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 451.1325 15 Tm (CONFIDENTIAL \227 INTERNAL USE) Tj T* ET
+Q
+q
+1 0 0 1 39.6 723.28 cm
+Q
+q
+1 0 0 1 39.6 708.28 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Intake Surface Audit) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 705.4 cm
+Q
+q
+1 0 0 1 39.6 685.4 cm
+q
+0 .019608 .333333 rg
+BT 1 0 0 1 0 12.5 Tm /F3 7.5 Tf 10 TL (Ghost Agent enters through content the agent is authorized to process. Injection lives outside the human-visible layer \227 in metadata, non-rendered markup, and) Tj T* (structured parsing targets. Audit each intake surface against full-parse inspection requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 524.4 cm
+q
+.066667 .066667 .066667 rg
+n 0 157 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 140 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 112 532.8 -28 re f*
+.980392 .972549 .960784 rg
+n 0 84 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 56 532.8 -28 re f*
+.980392 .972549 .960784 rg
+n 0 28 532.8 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 144 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.432 144 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 13.2495 0 Td (Yes) Tj T* -13.2495 0 Td ET
+Q
+Q
+q
+1 0 0 1 287.384 144 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 14.8105 0 Td (No) Tj T* -14.8105 0 Td ET
+Q
+Q
+q
+1 0 0 1 335.336 144 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 4.6555 0 Td (Unknown / Gap) Tj T* -4.6555 0 Td ET
+Q
+Q
+q
+1 0 0 1 404.6 144 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 116 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (For each agent, have you mapped every external content source it) Tj T* (is authorized to process?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 121.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 121.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 121.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 126 Tm  T* ET
+q
+1 0 0 1 5 88 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Does content inspection occur at the full parse layer \227 including) Tj T* (document metadata, hidden fields, and non-rendered markup?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 93.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 98 Tm  T* ET
+q
+1 0 0 1 5 60 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Are intake sources from third parties assessed for injection risk) Tj T* (surface separately from internal sources?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 70 Tm  T* ET
+q
+1 0 0 1 5 32 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Is there a process for flagging documents with anomalous metadata) Tj T* (or non-standard fields before agent processing?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 42 Tm  T* ET
+q
+1 0 0 1 5 4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Have you tested injection detection capability using simulated) Tj T* (payloads embedded in document metadata?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 14 Tm  T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 157 m 532.8 157 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 157 l S
+n 532.8 0 m 532.8 157 l S
+n 0 140 m 532.8 140 l S
+n 0 112 m 532.8 112 l S
+n 0 84 m 532.8 84 l S
+n 0 56 m 532.8 56 l S
+n 0 28 m 532.8 28 l S
+n 234.432 0 m 234.432 157 l S
+n 282.384 0 m 282.384 157 l S
+n 330.336 0 m 330.336 157 l S
+n 399.6 0 m 399.6 157 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 140 m 532.8 140 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 517.2 cm
+Q
+q
+1 0 0 1 39.6 509.2 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 1.5 Tm /F2 6.5 Tf 8 TL (INTAKE SOURCE REVIEW: For each high-privilege agent, document intake sources and inspection coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 505.32 cm
+Q
+q
+1 0 0 1 39.6 392.32 cm
+q
+.066667 .066667 .066667 rg
+n 0 113 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 96 532.8 -32 re f*
+.960784 .952941 .937255 rg
+n 0 64 532.8 -32 re f*
+.980392 .972549 .960784 rg
+n 0 32 532.8 -32 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 100 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Agent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.576 100 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Intake Source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 100 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Content Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 292.712 100 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Full-Parse Inspection?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 388.616 100 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Gap / Action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 92 cm
+Q
+q
+1 0 0 1 95.576 92 cm
+Q
+q
+1 0 0 1 202.136 92 cm
+Q
+q
+1 0 0 1 292.712 92 cm
+Q
+q
+1 0 0 1 388.616 92 cm
+Q
+q
+1 0 0 1 5 60 cm
+Q
+q
+1 0 0 1 95.576 60 cm
+Q
+q
+1 0 0 1 202.136 60 cm
+Q
+q
+1 0 0 1 292.712 60 cm
+Q
+q
+1 0 0 1 388.616 60 cm
+Q
+q
+1 0 0 1 5 28 cm
+Q
+q
+1 0 0 1 95.576 28 cm
+Q
+q
+1 0 0 1 202.136 28 cm
+Q
+q
+1 0 0 1 292.712 28 cm
+Q
+q
+1 0 0 1 388.616 28 cm
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 113 m 532.8 113 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 113 l S
+n 532.8 0 m 532.8 113 l S
+n 0 96 m 532.8 96 l S
+n 0 64 m 532.8 64 l S
+n 0 32 m 532.8 32 l S
+n 90.576 0 m 90.576 113 l S
+n 197.136 0 m 197.136 113 l S
+n 287.712 0 m 287.712 113 l S
+n 383.616 0 m 383.616 113 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 96 m 532.8 96 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 382.24 cm
+Q
+q
+1 0 0 1 39.6 367.24 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Detection Baseline) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 364.36 cm
+Q
+q
+1 0 0 1 39.6 344.36 cm
+q
+0 .019608 .333333 rg
+BT 1 0 0 1 0 12.5 Tm /F3 7.5 Tf 10 TL (Standard monitoring is built for unauthorized access and persistent threats. Ghost Agent terminates normally \227 no malware, no persistence, no alert. Detection) Tj T* (requires intent-level logging and behavioral baseline comparison.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 107.36 cm
+q
+.066667 .066667 .066667 rg
+n 0 233 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 216 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 188 532.8 -38 re f*
+.980392 .972549 .960784 rg
+n 0 150 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 122 532.8 -38 re f*
+.980392 .972549 .960784 rg
+n 0 84 532.8 -28 re f*
+.960784 .952941 .937255 rg
+n 0 56 532.8 -28 re f*
+.980392 .972549 .960784 rg
+n 0 28 532.8 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 220 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.432 220 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 13.2495 0 Td (Yes) Tj T* -13.2495 0 Td ET
+Q
+Q
+q
+1 0 0 1 287.384 220 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 14.8105 0 Td (No) Tj T* -14.8105 0 Td ET
+Q
+Q
+q
+1 0 0 1 335.336 220 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL 4.6555 0 Td (Unknown / Gap) Tj T* -4.6555 0 Td ET
+Q
+Q
+q
+1 0 0 1 404.6 220 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 192 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Are agent sessions logged at the intent level, capturing goal state at) Tj T* (each decision point \227 not only tool calls and API activity?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 197.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 202 Tm  T* ET
+q
+1 0 0 1 5 154 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Do you have per-session behavioral baselines for each production) Tj T* (agent role \(session duration, tool call sequence, output volume,) Tj T* (egress patterns\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 164.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 174 Tm  T* ET
+q
+1 0 0 1 5 126 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Is there alerting on statistical deviation from per-session behavioral) Tj T* (baselines?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 131.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 131.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 131.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 136 Tm  T* ET
+q
+1 0 0 1 5 88 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Does semantic monitoring on outbound payloads compare content) Tj T* (against the expected schema for each agent\222s provisioned) Tj T* (purpose?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 98.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 98.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 98.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 108 Tm  T* ET
+q
+1 0 0 1 5 60 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Can your monitoring detect tool call sequences that are individually) Tj T* (authorized but inconsistent with the agent\222s assigned task?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 65.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 70 Tm  T* ET
+q
+1 0 0 1 5 32 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Is pre-termination state snapshot implemented for high-privilege) Tj T* (agents to preserve execution context before session close?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 37.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 42 Tm  T* ET
+q
+1 0 0 1 5 4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Have you tested detection capability with simulated Ghost Agent) Tj T* (scenarios \(injection, secondary task, normal termination\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 234.932 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 282.884 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 341.492 9.5 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 19.476 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.6 w
+n 0 9 m 9 9 l S
+n 0 0 m 9 0 l S
+n 0 0 m 0 9 l S
+n 9 0 m 9 9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 404.6 14 Tm  T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 233 m 532.8 233 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 233 l S
+n 532.8 0 m 532.8 233 l S
+n 0 216 m 532.8 216 l S
+n 0 188 m 532.8 188 l S
+n 0 150 m 532.8 150 l S
+n 0 122 m 532.8 122 l S
+n 0 84 m 532.8 84 l S
+n 0 56 m 532.8 56 l S
+n 0 28 m 532.8 28 l S
+n 234.432 0 m 234.432 233 l S
+n 282.384 0 m 282.384 233 l S
+n 330.336 0 m 330.336 233 l S
+n 399.6 0 m 399.6 233 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 216 m 532.8 216 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 759 612 33 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0435   \267   AI Threat Assessment Workbook   \267   Ghost Agent) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(2 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 8950
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .066667 .066667 rg
+n 0 760 612 32 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 772 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 114.704 772 Tm (  \267  Digital Content #5  \267  Threat Assessment Workbook  \267  Ghost Agent) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 552.384 772 Tm (3 of 4) Tj T* ET
+.545098 .180392 .180392 RG
+1.5 w
+n 0 760 m 612 760 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 28 m 612 28 l S
+.933333 .933333 .933333 rg
+n 0 0 612 28 re f*
+.4 .4 .4 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 39.6 15 Tm (whenaiattacks.ai  \267  \251 2026 When AI Attacks, operated by Mar\351 LLC. All rights reserved.) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 451.1325 15 Tm (CONFIDENTIAL \227 INTERNAL USE) Tj T* ET
+Q
+q
+1 0 0 1 39.6 723.28 cm
+Q
+q
+1 0 0 1 39.6 708.28 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Governance Gap \227 Who Owns What) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 705.4 cm
+Q
+q
+1 0 0 1 39.6 685.4 cm
+q
+0 .019608 .333333 rg
+BT 1 0 0 1 0 12.5 Tm /F3 7.5 Tf 10 TL (Ghost Agent\222s access was authorized. The agent was the credential. Map ownership across the forensic, legal, and governance surface before an incident) Tj T* (surfaces the gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.6 482.4 cm
+q
+.066667 .066667 .066667 rg
+n 0 199 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 182 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 156 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 130 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 104 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 78 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 52 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 26 532.8 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 186 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 186 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Owner \(Name / Role\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 351.32 186 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Last Reviewed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.24 186 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Gap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 168 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (Agent session forensic continuity and log retention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 178 cm
+Q
+q
+1 0 0 1 351.32 178 cm
+Q
+q
+1 0 0 1 431.24 178 cm
+Q
+q
+1 0 0 1 5 142 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (Intent-level audit logging implementation and oversight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 152 cm
+Q
+q
+1 0 0 1 351.32 152 cm
+Q
+q
+1 0 0 1 431.24 152 cm
+Q
+q
+1 0 0 1 5 116 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (Intake surface content inspection controls) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 126 cm
+Q
+q
+1 0 0 1 351.32 126 cm
+Q
+q
+1 0 0 1 431.24 126 cm
+Q
+q
+1 0 0 1 5 80 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Incident response \227 suspected agent compromise) Tj T* (\(unconfirmed\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 100 cm
+Q
+q
+1 0 0 1 351.32 100 cm
+Q
+q
+1 0 0 1 431.24 100 cm
+Q
+q
+1 0 0 1 5 54 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Breach trigger definition \227 agentic access and scope) Tj T* (violations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 74 cm
+Q
+q
+1 0 0 1 351.32 74 cm
+Q
+q
+1 0 0 1 431.24 74 cm
+Q
+q
+1 0 0 1 5 28 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Legal response \227 third-party disclosure with no forensic) Tj T* (confirmation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 48 cm
+Q
+q
+1 0 0 1 351.32 48 cm
+Q
+q
+1 0 0 1 431.24 48 cm
+Q
+q
+1 0 0 1 5 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Task-scoped privilege enforcement and provisioning) Tj T* (governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 202.136 22 cm
+Q
+q
+1 0 0 1 351.32 22 cm
+Q
+q
+1 0 0 1 431.24 22 cm
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 199 m 532.8 199 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 199 l S
+n 532.8 0 m 532.8 199 l S
+n 0 182 m 532.8 182 l S
+n 0 156 m 532.8 156 l S
+n 0 130 m 532.8 130 l S
+n 0 104 m 532.8 104 l S
+n 0 78 m 532.8 78 l S
+n 0 52 m 532.8 52 l S
+n 0 26 m 532.8 26 l S
+n 197.136 0 m 197.136 199 l S
+n 346.32 0 m 346.32 199 l S
+n 426.24 0 m 426.24 199 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 182 m 532.8 182 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 473.76 cm
+Q
+q
+1 0 0 1 39.6 458.76 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Five Questions for Your Next Executive Meeting) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 454.44 cm
+Q
+q
+1 0 0 1 39.6 287.44 cm
+q
+.066667 .066667 .066667 rg
+n 0 167 532.8 -17 re f*
+.980392 .972549 .960784 rg
+n 0 150 532.8 -30 re f*
+.960784 .952941 .937255 rg
+n 0 120 532.8 -30 re f*
+.980392 .972549 .960784 rg
+n 0 90 532.8 -30 re f*
+.960784 .952941 .937255 rg
+n 0 60 532.8 -30 re f*
+.980392 .972549 .960784 rg
+n 0 30 532.8 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 154 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 154 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 154 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Your Answer / Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 136 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 116 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (For every production AI agent: do we have an intent-level audit trail that) Tj T* (would allow us to reconstruct what the agent was attempting to accomplish) Tj T* (during any given session \227 not just what it called?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 146 cm
+Q
+q
+1 0 0 1 5 106 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 86 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (If an agent were compromised during an ephemeral session and terminated) Tj T* (normally, would our logging posture allow us to detect that something) Tj T* (happened \227 and what is our evidentiary position if it cannot?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 116 cm
+Q
+q
+1 0 0 1 5 76 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 56 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Do our agent intake surfaces apply content inspection at the full parse layer) Tj T* (\227 including metadata and non-rendered fields the agent processes but) Tj T* (reviewers do not see?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 86 cm
+Q
+q
+1 0 0 1 5 46 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 26 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Does our IR program have a defined trigger and playbook for suspected) Tj T* (agent compromise that cannot be forensically confirmed \227 and who owns) Tj T* (that escalation?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 56 cm
+Q
+q
+1 0 0 1 5 16 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.304 -4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 22.5 Tm /F1 7.5 Tf 10 TL (Are agents operating under task-scoped privilege restrictions at the session) Tj T* (level, or does tool access remain constant regardless of the task being) Tj T* (executed?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.704 26 cm
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 167 m 532.8 167 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 167 l S
+n 532.8 0 m 532.8 167 l S
+n 0 150 m 532.8 150 l S
+n 0 120 m 532.8 120 l S
+n 0 90 m 532.8 90 l S
+n 0 60 m 532.8 60 l S
+n 0 30 m 532.8 30 l S
+n 29.304 0 m 29.304 167 l S
+n 295.704 0 m 295.704 167 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 150 m 532.8 150 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 759 612 33 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0435   \267   AI Threat Assessment Workbook   \267   Ghost Agent) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(3 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 9369
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.066667 .066667 .066667 rg
+n 0 760 612 32 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 772 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 114.704 772 Tm (  \267  Digital Content #5  \267  Threat Assessment Workbook  \267  Ghost Agent) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 552.384 772 Tm (4 of 4) Tj T* ET
+.545098 .180392 .180392 RG
+1.5 w
+n 0 760 m 612 760 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 28 m 612 28 l S
+.933333 .933333 .933333 rg
+n 0 0 612 28 re f*
+.4 .4 .4 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 39.6 15 Tm (whenaiattacks.ai  \267  \251 2026 When AI Attacks, operated by Mar\351 LLC. All rights reserved.) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 451.1325 15 Tm (CONFIDENTIAL \227 INTERNAL USE) Tj T* ET
+Q
+q
+1 0 0 1 39.6 723.28 cm
+Q
+q
+1 0 0 1 39.6 708.28 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Directives \227 Assign an Owner and a Date) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+1 w
+n 0 0 m 532.8 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 39.6 703.96 cm
+Q
+q
+1 0 0 1 39.6 399.96 cm
+q
+.066667 .066667 .066667 rg
+n 0 304 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 278 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 252 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 226 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 200 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 174 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 148 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 122 532.8 -35 re f*
+.960784 .952941 .937255 rg
+n 0 87 532.8 -26 re f*
+.980392 .972549 .960784 rg
+n 0 61 532.8 -26 re f*
+.960784 .952941 .937255 rg
+n 0 35 532.8 -35 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 291 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 282 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 11 Tm /F2 7 Tf 9 TL (Audienc) Tj T* (e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 291 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Directive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 291 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 465.872 291 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (Done By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 265 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 265 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 256 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Inventory all production AI agents. Document intake sources, egress channels, provisioned tool) Tj T* (scope, and current logging posture. Assume the list is incomplete.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 274 cm
+Q
+q
+1 0 0 1 465.872 274 cm
+Q
+q
+1 0 0 1 5 239 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 239 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 230 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Audit agent intake surfaces for full-parse content inspection. Every external content source) Tj T* (processed without it is an open injection vector.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 248 cm
+Q
+q
+1 0 0 1 465.872 248 cm
+Q
+q
+1 0 0 1 5 213 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 213 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 204 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Implement intent-level audit logging for all high-privilege agents. Activity logging alone is) Tj T* (insufficient \227 you need goal state at each decision point.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 222 cm
+Q
+q
+1 0 0 1 465.872 222 cm
+Q
+q
+1 0 0 1 5 187 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 187 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 178 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Redefine breach trigger criteria to include agentic scope violations \227 where an agent executes) Tj T* (outside its provisioned purpose, regardless of whether access was technically authorized.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 196 cm
+Q
+q
+1 0 0 1 465.872 196 cm
+Q
+q
+1 0 0 1 5 161 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 161 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 152 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Assign named governance ownership of agent session forensic continuity. If the answer is the) Tj T* (infrastructure team, you have an accountability gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 170 cm
+Q
+q
+1 0 0 1 465.872 170 cm
+Q
+q
+1 0 0 1 5 135 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 135 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 126 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Extend the third-party risk framework to cover agent intake sources. Every external content source) Tj T* (in an agent queue needs an injection risk assessment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 144 cm
+Q
+q
+1 0 0 1 465.872 144 cm
+Q
+q
+1 0 0 1 5 109 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 109 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 91 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 20.2 Tm /F1 6.8 Tf 9 TL (Add a Ghost Agent scenario to your IR playbook: defined trigger, evidentiary escalation path,) Tj T* (third-party notification assessment \227 including for cases where forensic confirmation is structurally) Tj T* (impossible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 118 cm
+Q
+q
+1 0 0 1 465.872 118 cm
+Q
+q
+1 0 0 1 5 74 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 74 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 65 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Develop intake forensics capability. Define retention requirements for agent intake content in) Tj T* (full-parse form before you need to run the analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 83 cm
+Q
+q
+1 0 0 1 465.872 83 cm
+Q
+q
+1 0 0 1 5 48 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 48 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 39 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 11.2 Tm /F1 6.8 Tf 9 TL (Map agents by forensic gap severity: high egress + unvalidated external intake + no intent-level) Tj T* (logging = highest exposure. Close from the top.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 57 cm
+Q
+q
+1 0 0 1 465.872 57 cm
+Q
+q
+1 0 0 1 5 22 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31.64 22 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 6.8 Tf 9 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.936 4 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 20.2 Tm /F1 6.8 Tf 9 TL (Run a cross-functional accountability exercise: if our agent were compromised in a session today) Tj T* (and a third-party disclosure arrived six weeks from now, who detects it, who owns the response,) Tj T* (and what do we tell the board?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 375.296 31 cm
+Q
+q
+1 0 0 1 465.872 31 cm
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 304 m 532.8 304 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 304 l S
+n 532.8 0 m 532.8 304 l S
+n 0 278 m 532.8 278 l S
+n 0 252 m 532.8 252 l S
+n 0 226 m 532.8 226 l S
+n 0 200 m 532.8 200 l S
+n 0 174 m 532.8 174 l S
+n 0 148 m 532.8 148 l S
+n 0 122 m 532.8 122 l S
+n 0 87 m 532.8 87 l S
+n 0 61 m 532.8 61 l S
+n 0 35 m 532.8 35 l S
+n 26.64 0 m 26.64 304 l S
+n 63.936 0 m 63.936 304 l S
+n 370.296 0 m 370.296 304 l S
+n 460.872 0 m 460.872 304 l S
+.545098 .180392 .180392 RG
+1.5 w
+n 0 278 m 532.8 278 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 759 612 33 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0435   \267   AI Threat Assessment Workbook   \267   Ghost Agent) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(4 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+1 1 1 rg
+n
+37 380 245 14 re
+f*
+0.545098 0.180392 0.180392 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 40 382 Tm
+(Assessment prepared by Matsui LLC  \267  matsuihq\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000439 00000 n 
+0000015591 00000 n 
+0000015698 00000 n 
+0000015805 00000 n 
+0000015917 00000 n 
+0000016029 00000 n 
+0000016145 00000 n 
+0000016403 00000 n 
+0000036584 00000 n 
+0000036842 00000 n 
+0000045845 00000 n 
+0000046103 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+55525
+%%EOF

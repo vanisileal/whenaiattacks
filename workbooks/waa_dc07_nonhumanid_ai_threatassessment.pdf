@@ -1,0 +1,2256 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9317
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 761.76 612 30.24 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+1 1 1 rg
+BT 1 0 0 1 43.2 773.88 Tm (WHEN AI ATTACKS\231) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.631373 .631373 .631373 rg
+BT 1 0 0 1 141.498 773.88 Tm (\267  Digital Content #7  \267  Threat Assessment Workbook  \267  Non-Human Identities) Tj T* ET
+BT 1 0 0 1 548.784 773.88 Tm (1 of 4) Tj T* ET
+.811765 .8 .780392 RG
+.6 w
+n 43.2 32.8 m 568.8 32.8 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.419608 .396078 .376471 rg
+BT 1 0 0 1 43.2 20.8 Tm (When AI Attacks   |   Assessment prepared by Matsui\231   |   Built on the principles of Adaptive Trust Intelligence\231) Tj T* ET
+BT 1 0 0 1 515.5776 20.8 Tm (whenaiattacks.ai) Tj T* ET
+Q
+q
+1 0 0 1 43.2 743.76 cm
+Q
+q
+1 0 0 1 43.2 729.76 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (THREAT ASSESSMENT WORKBOOK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 710.76 cm
+q
+BT 1 0 0 1 0 4 Tm 16 TL /F1 12 Tf .101961 .101961 .101961 rg (Digital Content #7 \227 Non-Human Identities: You Offboard People. You Never Offboard This.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 698.76 cm
+Q
+q
+1 0 0 1 43.2 616.76 cm
+q
+.909804 .909804 .92549 rg
+n 0 82 525.6 -82 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 16 13 cm
+q
+BT 1 0 0 1 0 46.7 Tm 14 TL /F2 9.3 Tf .164706 .145098 .12549 rg (Purpose:) Tj /F1 9.3 Tf ( Assess your organization) Tj (\222) Tj (s exposure to Non-Human Identity \(NHI\) threats \227 where machine credentials) Tj T* (\(service accounts, API keys, tokens, certificates, OAuth apps\) and AI agents operate with standing, overprivileged,) Tj T* (reused, or unowned access that no human lifecycle governs. Inventory your machine identities, map the gap, assign) Tj T* (ownership, and build a prioritized response plan.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.545098 .180392 .180392 RG
+4 w
+n 0 0 m 0 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 600.76 cm
+Q
+q
+1 0 0 1 43.2 581.76 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (Exposure Check) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 580.36 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 575.36 cm
+Q
+q
+1 0 0 1 43.2 563.36 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 3.4 Tm /F3 8.6 Tf 12 TL (Answer Yes / No / Unknown for your environment. Every Unknown is a gap. Three or more Unknowns = this is your next tabletop agenda.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 558.36 cm
+Q
+q
+1 0 0 1 43.2 277.86 cm
+q
+.101961 .101961 .101961 rg
+n 0 280.5 525.6 -21 re f*
+1 1 1 rg
+n 0 259.5 525.6 -42.5 re f*
+.968627 .956863 .937255 rg
+n 0 217 525.6 -31 re f*
+1 1 1 rg
+n 0 186 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 155 525.6 -31 re f*
+1 1 1 rg
+n 0 124 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 93 525.6 -31 re f*
+1 1 1 rg
+n 0 62 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 31 525.6 -31 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 264.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6 264.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 304.6 264.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.6 264.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 221 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Do we have a current inventory of every non-human identity \227) Tj T* (service accounts, API keys, tokens, certificates, OAuth apps,) Tj T* (workload identities, and AI agents?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 234.25 Tm  T* ET
+BT 1 0 0 1 313.6 234.25 Tm  T* ET
+BT 1 0 0 1 336.6 234.25 Tm  T* ET
+q
+1 0 0 1 7 190 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Does every non-human identity have a named human owner and) Tj T* (a documented business purpose?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 197.5 Tm  T* ET
+BT 1 0 0 1 313.6 197.5 Tm  T* ET
+BT 1 0 0 1 336.6 197.5 Tm  T* ET
+q
+1 0 0 1 7 159 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Can we distinguish AI agent identities from static machine) Tj T* (identities, and do we govern agents as their own tier?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 166.5 Tm  T* ET
+BT 1 0 0 1 313.6 166.5 Tm  T* ET
+BT 1 0 0 1 336.6 166.5 Tm  T* ET
+q
+1 0 0 1 7 128 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Are any credentials long-lived \(never rotated\) or shared / reused) Tj T* (across more than one integration?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 135.5 Tm  T* ET
+BT 1 0 0 1 313.6 135.5 Tm  T* ET
+BT 1 0 0 1 336.6 135.5 Tm  T* ET
+q
+1 0 0 1 7 97 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Do we scan repositories, CI logs, and config files for leaked) Tj T* (secrets \227 and remediate what we find?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 104.5 Tm  T* ET
+BT 1 0 0 1 313.6 104.5 Tm  T* ET
+BT 1 0 0 1 336.6 104.5 Tm  T* ET
+q
+1 0 0 1 7 66 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Are machine-identity actions baselined, so deviations \(new) Tj T* (endpoints, scopes, or origin\) raise an alert?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 73.5 Tm  T* ET
+BT 1 0 0 1 313.6 73.5 Tm  T* ET
+BT 1 0 0 1 336.6 73.5 Tm  T* ET
+q
+1 0 0 1 7 35 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Do we retire non-human identities on a lifecycle tied to a service) Tj T* (or project \227 not to the person who created them?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 42.5 Tm  T* ET
+BT 1 0 0 1 313.6 42.5 Tm  T* ET
+BT 1 0 0 1 336.6 42.5 Tm  T* ET
+q
+1 0 0 1 7 4 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Could we offboard a machine identity as fast and reliably as we) Tj T* (offboard a departing employee?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 11.5 Tm  T* ET
+BT 1 0 0 1 313.6 11.5 Tm  T* ET
+BT 1 0 0 1 336.6 11.5 Tm  T* ET
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 280.5 m 525.6 280.5 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 280.5 l S
+n 525.6 0 m 525.6 280.5 l S
+n 0 259.5 m 525.6 259.5 l S
+n 0 217 m 525.6 217 l S
+n 0 186 m 525.6 186 l S
+n 0 155 m 525.6 155 l S
+n 0 124 m 525.6 124 l S
+n 0 93 m 525.6 93 l S
+n 0 62 m 525.6 62 l S
+n 0 31 m 525.6 31 l S
+n 265.6 0 m 265.6 280.5 l S
+n 297.6 0 m 297.6 280.5 l S
+n 329.6 0 m 329.6 280.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 268.86 cm
+Q
+q
+1 0 0 1 43.2 257.86 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3.2 Tm /F2 7.8 Tf 11 TL (MACHINE IDENTITY INVENTORY \(list known non-human identities, their type and scope, owner, and whether each is an AI agent\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 254.86 cm
+Q
+q
+1 0 0 1 43.2 116.86 cm
+q
+.101961 .101961 .101961 rg
+n 0 138 525.6 -18 re f*
+1 1 1 rg
+n 0 120 525.6 -24 re f*
+.968627 .956863 .937255 rg
+n 0 96 525.6 -24 re f*
+1 1 1 rg
+n 0 72 525.6 -24 re f*
+.968627 .956863 .937255 rg
+n 0 48 525.6 -24 re f*
+1 1 1 rg
+n 0 24 525.6 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 123.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Identity / Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 157 123.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Type / Scope / Access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 389 123.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 467 123.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Agent?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 7 104 Tm  T* ET
+BT 1 0 0 1 157 104 Tm  T* ET
+BT 1 0 0 1 389 104 Tm  T* ET
+BT 1 0 0 1 467 104 Tm  T* ET
+BT 1 0 0 1 7 80 Tm  T* ET
+BT 1 0 0 1 157 80 Tm  T* ET
+BT 1 0 0 1 389 80 Tm  T* ET
+BT 1 0 0 1 467 80 Tm  T* ET
+BT 1 0 0 1 7 56 Tm  T* ET
+BT 1 0 0 1 157 56 Tm  T* ET
+BT 1 0 0 1 389 56 Tm  T* ET
+BT 1 0 0 1 467 56 Tm  T* ET
+BT 1 0 0 1 7 32 Tm  T* ET
+BT 1 0 0 1 157 32 Tm  T* ET
+BT 1 0 0 1 389 32 Tm  T* ET
+BT 1 0 0 1 467 32 Tm  T* ET
+BT 1 0 0 1 7 8 Tm  T* ET
+BT 1 0 0 1 157 8 Tm  T* ET
+BT 1 0 0 1 389 8 Tm  T* ET
+BT 1 0 0 1 467 8 Tm  T* ET
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 138 m 525.6 138 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 138 l S
+n 525.6 0 m 525.6 138 l S
+n 0 120 m 525.6 120 l S
+n 0 96 m 525.6 96 l S
+n 0 72 m 525.6 72 l S
+n 0 48 m 525.6 48 l S
+n 0 24 m 525.6 24 l S
+n 150 0 m 150 138 l S
+n 382 0 m 382 138 l S
+n 460 0 m 460 138 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 761 612 31 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0437   \267   AI Threat Assessment Workbook   \267   Non\055Human Identities) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(1 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+1 1 1 rg
+n
+40 728 202 16 re
+f*
+0.545098 0.180392 0.180392 rg
+BT
+/F2-0 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 43 732.31 Tm
+(AI THREAT ASSESSMENT WORKBOOK) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 10876
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 761.76 612 30.24 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+1 1 1 rg
+BT 1 0 0 1 43.2 773.88 Tm (WHEN AI ATTACKS\231) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.631373 .631373 .631373 rg
+BT 1 0 0 1 141.498 773.88 Tm (\267  Digital Content #7  \267  Threat Assessment Workbook  \267  Non-Human Identities) Tj T* ET
+BT 1 0 0 1 548.784 773.88 Tm (2 of 4) Tj T* ET
+.811765 .8 .780392 RG
+.6 w
+n 43.2 32.8 m 568.8 32.8 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.419608 .396078 .376471 rg
+BT 1 0 0 1 43.2 20.8 Tm (When AI Attacks   |   Assessment prepared by Matsui\231   |   Built on the principles of Adaptive Trust Intelligence\231) Tj T* ET
+BT 1 0 0 1 515.5776 20.8 Tm (whenaiattacks.ai) Tj T* ET
+Q
+q
+1 0 0 1 43.2 728.76 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+BT 1 0 0 1 0 1 Tm 16 TL /F2 15 Tf .101961 .101961 .101961 rg (Privilege, Secret & Reuse Audit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 727.36 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 722.36 cm
+Q
+q
+1 0 0 1 43.2 698.36 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 15.4 Tm /F3 8.6 Tf 12 TL (A leaked secret becomes a breach when the identity is overprivileged, reused, or never rotated. Audit scope, rotation, and reuse for every) Tj T* (identity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 693.36 cm
+Q
+q
+1 0 0 1 43.2 486.36 cm
+q
+.101961 .101961 .101961 rg
+n 0 207 525.6 -21 re f*
+1 1 1 rg
+n 0 186 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 155 525.6 -31 re f*
+1 1 1 rg
+n 0 124 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 93 525.6 -31 re f*
+1 1 1 rg
+n 0 62 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 31 525.6 -31 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 304.6 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.6 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 159 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (For each known identity, has the full permission scope been) Tj T* (reviewed and reduced to least privilege?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 166.5 Tm  T* ET
+BT 1 0 0 1 313.6 166.5 Tm  T* ET
+BT 1 0 0 1 336.6 166.5 Tm  T* ET
+q
+1 0 0 1 7 128 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Are identities with access to sensitive data, production systems,) Tj T* (or money movement explicitly identified?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 135.5 Tm  T* ET
+BT 1 0 0 1 313.6 135.5 Tm  T* ET
+BT 1 0 0 1 336.6 135.5 Tm  T* ET
+q
+1 0 0 1 7 97 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Is there a process to detect scope creep and credential reuse) Tj T* (across integrated platforms?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 104.5 Tm  T* ET
+BT 1 0 0 1 313.6 104.5 Tm  T* ET
+BT 1 0 0 1 336.6 104.5 Tm  T* ET
+q
+1 0 0 1 7 66 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Are long-lived secrets being replaced with short-lived,) Tj T* (auto-rotated credentials or workload federation \(OIDC\)?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 73.5 Tm  T* ET
+BT 1 0 0 1 313.6 73.5 Tm  T* ET
+BT 1 0 0 1 336.6 73.5 Tm  T* ET
+q
+1 0 0 1 7 35 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Is there alerting when an identity that historically only consumed) Tj T* (tokens begins minting new ones?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 42.5 Tm  T* ET
+BT 1 0 0 1 313.6 42.5 Tm  T* ET
+BT 1 0 0 1 336.6 42.5 Tm  T* ET
+q
+1 0 0 1 7 4 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Have we assessed whether a leaked secret \(repo, CI log, fork\)) Tj T* (could be assumed without tripping a single alert?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 11.5 Tm  T* ET
+BT 1 0 0 1 313.6 11.5 Tm  T* ET
+BT 1 0 0 1 336.6 11.5 Tm  T* ET
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 207 m 525.6 207 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 207 l S
+n 525.6 0 m 525.6 207 l S
+n 0 186 m 525.6 186 l S
+n 0 155 m 525.6 155 l S
+n 0 124 m 525.6 124 l S
+n 0 93 m 525.6 93 l S
+n 0 62 m 525.6 62 l S
+n 0 31 m 525.6 31 l S
+n 265.6 0 m 265.6 207 l S
+n 297.6 0 m 297.6 207 l S
+n 329.6 0 m 329.6 207 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 477.36 cm
+Q
+q
+1 0 0 1 43.2 466.36 cm
+q
+BT 1 0 0 1 0 3.2 Tm 11 TL /F2 7.8 Tf .545098 .180392 .180392 rg (PRIVILEGE & SECRET REVIEW: For each high-risk identity, document scope, rotation status, and reuse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 463.36 cm
+Q
+q
+1 0 0 1 43.2 373.36 cm
+q
+.101961 .101961 .101961 rg
+n 0 90 525.6 -18 re f*
+1 1 1 rg
+n 0 72 525.6 -24 re f*
+.968627 .956863 .937255 rg
+n 0 48 525.6 -24 re f*
+1 1 1 rg
+n 0 24 525.6 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 75.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Identity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121 75.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Scope / Access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283 75.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Long-Lived / Reused?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 417 75.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Gap / Action) Tj T* ET
+Q
+Q
+BT 1 0 0 1 7 56 Tm  T* ET
+BT 1 0 0 1 121 56 Tm  T* ET
+BT 1 0 0 1 283 56 Tm  T* ET
+BT 1 0 0 1 417 56 Tm  T* ET
+BT 1 0 0 1 7 32 Tm  T* ET
+BT 1 0 0 1 121 32 Tm  T* ET
+BT 1 0 0 1 283 32 Tm  T* ET
+BT 1 0 0 1 417 32 Tm  T* ET
+BT 1 0 0 1 7 8 Tm  T* ET
+BT 1 0 0 1 121 8 Tm  T* ET
+BT 1 0 0 1 283 8 Tm  T* ET
+BT 1 0 0 1 417 8 Tm  T* ET
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 90 m 525.6 90 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 90 l S
+n 525.6 0 m 525.6 90 l S
+n 0 72 m 525.6 72 l S
+n 0 48 m 525.6 48 l S
+n 0 24 m 525.6 24 l S
+n 114 0 m 114 90 l S
+n 276 0 m 276 90 l S
+n 410 0 m 410 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 367.36 cm
+Q
+q
+1 0 0 1 43.2 348.36 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (Detection Baseline) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 346.96 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 341.96 cm
+Q
+q
+1 0 0 1 43.2 317.96 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL /F3 8.6 Tf .419608 .396078 .376471 rg (Machine identities don) Tj (\222) Tj (t trip alerts built for people \227 they never log in, never answer MFA, and have no human baseline to deviate from.) Tj T* (Detection must be identity-aware.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 312.96 cm
+Q
+q
+1 0 0 1 43.2 74.96 cm
+q
+.101961 .101961 .101961 rg
+n 0 238 525.6 -21 re f*
+1 1 1 rg
+n 0 217 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 186 525.6 -31 re f*
+1 1 1 rg
+n 0 155 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 124 525.6 -31 re f*
+1 1 1 rg
+n 0 93 525.6 -31 re f*
+.968627 .956863 .937255 rg
+n 0 62 525.6 -31 re f*
+1 1 1 rg
+n 0 31 525.6 -31 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 304.6 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.6 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 190 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Does your SIEM or identity platform baseline normal machine) Tj T* (behavior and flag deviations?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 197.5 Tm  T* ET
+BT 1 0 0 1 313.6 197.5 Tm  T* ET
+BT 1 0 0 1 336.6 197.5 Tm  T* ET
+q
+1 0 0 1 7 159 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Is there an inventory and rotation cadence that surfaces stale,) Tj T* (dormant, or never-rotated credentials?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 166.5 Tm  T* ET
+BT 1 0 0 1 313.6 166.5 Tm  T* ET
+BT 1 0 0 1 336.6 166.5 Tm  T* ET
+q
+1 0 0 1 7 128 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Do you have behavioral monitoring deployed for AI agents with) Tj T* (access to sensitive systems?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 135.5 Tm  T* ET
+BT 1 0 0 1 313.6 135.5 Tm  T* ET
+BT 1 0 0 1 336.6 135.5 Tm  T* ET
+q
+1 0 0 1 7 97 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Is there detection for token-minting or privilege escalation) Tj T* (initiated by a non-human identity?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 104.5 Tm  T* ET
+BT 1 0 0 1 313.6 104.5 Tm  T* ET
+BT 1 0 0 1 336.6 104.5 Tm  T* ET
+q
+1 0 0 1 7 66 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Can you detect the same credential authenticating from two) Tj T* (infrastructures at once \(reuse or theft\)?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 73.5 Tm  T* ET
+BT 1 0 0 1 313.6 73.5 Tm  T* ET
+BT 1 0 0 1 336.6 73.5 Tm  T* ET
+q
+1 0 0 1 7 35 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Is secrets-scanning coverage in place across repositories, CI) Tj T* (pipelines, and config stores?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 42.5 Tm  T* ET
+BT 1 0 0 1 313.6 42.5 Tm  T* ET
+BT 1 0 0 1 336.6 42.5 Tm  T* ET
+q
+1 0 0 1 7 4 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Have you tested detection with a simulated assumed-credential) Tj T* (scenario?) Tj T* ET
+Q
+Q
+BT 1 0 0 1 281.6 11.5 Tm  T* ET
+BT 1 0 0 1 313.6 11.5 Tm  T* ET
+BT 1 0 0 1 336.6 11.5 Tm  T* ET
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 238 m 525.6 238 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 238 l S
+n 525.6 0 m 525.6 238 l S
+n 0 217 m 525.6 217 l S
+n 0 186 m 525.6 186 l S
+n 0 155 m 525.6 155 l S
+n 0 124 m 525.6 124 l S
+n 0 93 m 525.6 93 l S
+n 0 62 m 525.6 62 l S
+n 0 31 m 525.6 31 l S
+n 265.6 0 m 265.6 238 l S
+n 297.6 0 m 297.6 238 l S
+n 329.6 0 m 329.6 238 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 761 612 31 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0437   \267   AI Threat Assessment Workbook   \267   Non\055Human Identities) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(2 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 8707
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 761.76 612 30.24 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+1 1 1 rg
+BT 1 0 0 1 43.2 773.88 Tm (WHEN AI ATTACKS\231) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.631373 .631373 .631373 rg
+BT 1 0 0 1 141.498 773.88 Tm (\267  Digital Content #7  \267  Threat Assessment Workbook  \267  Non-Human Identities) Tj T* ET
+BT 1 0 0 1 548.784 773.88 Tm (3 of 4) Tj T* ET
+.811765 .8 .780392 RG
+.6 w
+n 43.2 32.8 m 568.8 32.8 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.419608 .396078 .376471 rg
+BT 1 0 0 1 43.2 20.8 Tm (When AI Attacks   |   Assessment prepared by Matsui\231   |   Built on the principles of Adaptive Trust Intelligence\231) Tj T* ET
+BT 1 0 0 1 515.5776 20.8 Tm (whenaiattacks.ai) Tj T* ET
+Q
+q
+1 0 0 1 43.2 728.76 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+BT 1 0 0 1 0 1 Tm 16 TL /F2 15 Tf .101961 .101961 .101961 rg (Governance Gap \227 Who Owns What) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 727.36 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 722.36 cm
+Q
+q
+1 0 0 1 43.2 698.36 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL /F3 8.6 Tf .419608 .396078 .376471 rg (A non-human identity) Tj (\222) Tj (s access is real whether or not anyone owns it. Map ownership across inventory, privilege, detection, and lifecycle) Tj T* (before an incident surfaces the gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 693.36 cm
+Q
+q
+1 0 0 1 43.2 464.86 cm
+q
+.101961 .101961 .101961 rg
+n 0 228.5 525.6 -18 re f*
+1 1 1 rg
+n 0 210.5 525.6 -35 re f*
+.968627 .956863 .937255 rg
+n 0 175.5 525.6 -35 re f*
+1 1 1 rg
+n 0 140.5 525.6 -23.5 re f*
+.968627 .956863 .937255 rg
+n 0 117 525.6 -35 re f*
+1 1 1 rg
+n 0 82 525.6 -23.5 re f*
+.968627 .956863 .937255 rg
+n 0 58.5 525.6 -35 re f*
+1 1 1 rg
+n 0 23.5 525.6 -23.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 214 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 214 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Owner \(Name / Role\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 343 214 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Last Reviewed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 421 214 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Gap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 181.5 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Machine identity inventory & continuous) Tj T* (discovery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 193 cm
+Q
+q
+1 0 0 1 343 193 cm
+Q
+q
+1 0 0 1 421 193 cm
+Q
+q
+1 0 0 1 7 146.5 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Ownership assignment for every non-human) Tj T* (identity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 158 cm
+Q
+q
+1 0 0 1 343 158 cm
+Q
+q
+1 0 0 1 421 158 cm
+Q
+q
+1 0 0 1 7 123 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Least-privilege scoping & reuse elimination) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 128.75 cm
+Q
+q
+1 0 0 1 343 128.75 cm
+Q
+q
+1 0 0 1 421 128.75 cm
+Q
+q
+1 0 0 1 7 88 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Secret rotation & long-lived credential) Tj T* (elimination) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 99.5 cm
+Q
+q
+1 0 0 1 343 99.5 cm
+Q
+q
+1 0 0 1 421 99.5 cm
+Q
+q
+1 0 0 1 7 64.5 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (NHI behavioral detection & monitoring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 70.25 cm
+Q
+q
+1 0 0 1 343 70.25 cm
+Q
+q
+1 0 0 1 421 70.25 cm
+Q
+q
+1 0 0 1 7 29.5 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (NHI lifecycle, offboarding & dormant-identity) Tj T* (sweeps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 41 cm
+Q
+q
+1 0 0 1 343 41 cm
+Q
+q
+1 0 0 1 421 41 cm
+Q
+q
+1 0 0 1 7 6 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (AI agent authorization & distinct review tier) Tj T* ET
+Q
+Q
+q
+1 0 0 1 203 11.75 cm
+Q
+q
+1 0 0 1 343 11.75 cm
+Q
+q
+1 0 0 1 421 11.75 cm
+Q
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 228.5 m 525.6 228.5 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 228.5 l S
+n 525.6 0 m 525.6 228.5 l S
+n 0 210.5 m 525.6 210.5 l S
+n 0 175.5 m 525.6 175.5 l S
+n 0 140.5 m 525.6 140.5 l S
+n 0 117 m 525.6 117 l S
+n 0 82 m 525.6 82 l S
+n 0 58.5 m 525.6 58.5 l S
+n 0 23.5 m 525.6 23.5 l S
+n 196 0 m 196 228.5 l S
+n 336 0 m 336 228.5 l S
+n 414 0 m 414 228.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 452.86 cm
+Q
+q
+1 0 0 1 43.2 433.86 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (Five Questions for Your Next Executive Meeting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 432.46 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 427.46 cm
+Q
+q
+1 0 0 1 43.2 415.46 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL /F3 8.6 Tf .419608 .396078 .376471 rg (Bring these to the board. If the honest answer to the first is \223) Tj (we don) Tj (\222) Tj (t know,) Tj (\224 that is the finding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 410.46 cm
+Q
+q
+1 0 0 1 43.2 205.96 cm
+q
+.101961 .101961 .101961 rg
+n 0 204.5 525.6 -18 re f*
+1 1 1 rg
+n 0 186.5 525.6 -46.5 re f*
+.968627 .956863 .937255 rg
+n 0 140 525.6 -35 re f*
+1 1 1 rg
+n 0 105 525.6 -35 re f*
+.968627 .956863 .937255 rg
+n 0 70 525.6 -35 re f*
+1 1 1 rg
+n 0 35 525.6 -35 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 190 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 190 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 190 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Your Answer / Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 157.5 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 146 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Do we have an inventory of every non-human identity with delegated) Tj T* (or standing access to our systems \227 and does each have a named) Tj T* (owner?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 163.25 cm
+Q
+q
+1 0 0 1 7 116.75 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 111 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (If a machine credential were assumed today, how long before we) Tj T* (would know, and how would we reconstruct what it did?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 122.5 cm
+Q
+q
+1 0 0 1 7 81.75 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 76 cm
+q
+BT 1 0 0 1 0 14.3 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Which AI agents hold privileged or sensitive access \227 and what can) Tj T* (each reach beyond its stated job?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 87.5 cm
+Q
+q
+1 0 0 1 7 46.75 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 41 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Can we offboard a machine identity as fast and reliably as we offboard) Tj T* (a departing employee?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 52.5 cm
+Q
+q
+1 0 0 1 7 11.75 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 33 6 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (What is the business justification for the non-human identities in our) Tj T* (environment with the broadest, longest-lived access?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319 17.5 cm
+Q
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 204.5 m 525.6 204.5 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 204.5 l S
+n 525.6 0 m 525.6 204.5 l S
+n 0 186.5 m 525.6 186.5 l S
+n 0 140 m 525.6 140 l S
+n 0 105 m 525.6 105 l S
+n 0 70 m 525.6 70 l S
+n 0 35 m 525.6 35 l S
+n 26 0 m 26 204.5 l S
+n 312 0 m 312 204.5 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 761 612 31 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0437   \267   AI Threat Assessment Workbook   \267   Non\055Human Identities) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(3 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 9631
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 761.76 612 30.24 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+1 1 1 rg
+BT 1 0 0 1 43.2 773.88 Tm (WHEN AI ATTACKS\231) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.631373 .631373 .631373 rg
+BT 1 0 0 1 141.498 773.88 Tm (\267  Digital Content #7  \267  Threat Assessment Workbook  \267  Non-Human Identities) Tj T* ET
+BT 1 0 0 1 548.784 773.88 Tm (4 of 4) Tj T* ET
+.811765 .8 .780392 RG
+.6 w
+n 43.2 32.8 m 568.8 32.8 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.419608 .396078 .376471 rg
+BT 1 0 0 1 43.2 20.8 Tm (When AI Attacks   |   Assessment prepared by Matsui\231   |   Built on the principles of Adaptive Trust Intelligence\231) Tj T* ET
+BT 1 0 0 1 515.5776 20.8 Tm (whenaiattacks.ai) Tj T* ET
+Q
+q
+1 0 0 1 43.2 728.76 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 3 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 1 Tm /F2 15 Tf 16 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 3 cm
+q
+BT 1 0 0 1 0 1 Tm 16 TL /F2 15 Tf .101961 .101961 .101961 rg (Directives \227 Assign an Owner and a Date) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 727.36 cm
+q
+.545098 .180392 .180392 rg
+n 0 1.4 525.6 -1.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 722.36 cm
+Q
+q
+1 0 0 1 43.2 710.36 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL /F3 8.6 Tf .419608 .396078 .376471 rg (Four moves, in order \227 inventory, constrain, detect, offboard. Assign each directive an owner and a target date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 705.36 cm
+Q
+q
+1 0 0 1 43.2 256.86 cm
+q
+.101961 .101961 .101961 rg
+n 0 448.5 525.6 -18 re f*
+1 1 1 rg
+n 0 430.5 525.6 -46.5 re f*
+.968627 .956863 .937255 rg
+n 0 384 525.6 -35 re f*
+1 1 1 rg
+n 0 349 525.6 -46.5 re f*
+.968627 .956863 .937255 rg
+n 0 302.5 525.6 -35 re f*
+1 1 1 rg
+n 0 267.5 525.6 -35 re f*
+.968627 .956863 .937255 rg
+n 0 232.5 525.6 -46.5 re f*
+1 1 1 rg
+n 0 186 525.6 -46.5 re f*
+.968627 .956863 .937255 rg
+n 0 139.5 525.6 -46.5 re f*
+1 1 1 rg
+n 0 93 525.6 -46.5 re f*
+.968627 .956863 .937255 rg
+n 0 46.5 525.6 -46.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 434 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 428.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13.8 Tm /F2 8.2 Tf 11 TL (Audienc) Tj T* (e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 434 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Directive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 434 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 454.6 434 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Done By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 401.5 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 401.75 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 390 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Build a machine-identity inventory. Enumerate every service account, API) Tj T* (key, token, certificate, OAuth app, workload identity, and AI agent. If it) Tj T* (authenticates and isn) Tj (\222) Tj (t a person, it) Tj (\222) Tj (s on the list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 407.25 cm
+Q
+q
+1 0 0 1 454.6 407.25 cm
+Q
+q
+1 0 0 1 7 360.75 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 361 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 355 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Assign a named human owner and a business purpose to every) Tj T* (non-human identity. Ownerless identities are revoked, not documented.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 366.5 cm
+Q
+q
+1 0 0 1 454.6 366.5 cm
+Q
+q
+1 0 0 1 7 320 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 320.25 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 308.5 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Tag AI agents as their own identity tier and govern them separately. They) Tj T* (act on credentials, inherit adjacent scopes, and mint new ones \227 a static) Tj T* (API key does none of that.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 325.75 cm
+Q
+q
+1 0 0 1 454.6 325.75 cm
+Q
+q
+1 0 0 1 7 279.25 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 279.5 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 273.5 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Scope every identity to a single job and eliminate reuse across) Tj T* (integrations. One identity, one job, one blast radius.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 285 cm
+Q
+q
+1 0 0 1 454.6 285 cm
+Q
+q
+1 0 0 1 7 244.25 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 244.5 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 238.5 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 14.3 Tm /F1 8.7 Tf 11.5 TL (Eliminate long-lived secrets. Move to short-lived, auto-rotated credentials) Tj T* (and workload federation \(OIDC\) wherever the platform allows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 250 cm
+Q
+q
+1 0 0 1 454.6 250 cm
+Q
+q
+1 0 0 1 7 203.5 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 203.75 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 192 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 25.8 Tm /F1 8.7 Tf 11.5 TL (Bound AI agent authority explicitly: define what each agent can reach,) Tj T* (what it may mint, and a hard time-to-live. Authority without a TTL is) Tj T* (authority forever.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 209.25 cm
+Q
+q
+1 0 0 1 454.6 209.25 cm
+Q
+q
+1 0 0 1 7 157 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 157.25 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 145.5 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Baseline normal machine behavior and alert on deviation \227 new) Tj T* (endpoints, scopes, or origin \227 and on token-minting from identities that) Tj T* (previously only consumed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 162.75 cm
+Q
+q
+1 0 0 1 454.6 162.75 cm
+Q
+q
+1 0 0 1 7 110.5 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 110.75 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 99 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 25.8 Tm /F1 8.7 Tf 11.5 TL (Deploy secrets scanning across repositories, CI pipelines, and config) Tj T* (stores, and wire NHI telemetry into the SOC. Treat a leaked secret as an) Tj T* (active intrusion path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 116.25 cm
+Q
+q
+1 0 0 1 454.6 116.25 cm
+Q
+q
+1 0 0 1 7 64 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 64.25 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 52.5 cm
+q
+BT 1 0 0 1 0 25.8 Tm 11.5 TL /F1 8.7 Tf .164706 .145098 .12549 rg (Stop treating \223) Tj (the credential was valid) Tj (\224 as \223) Tj (the action was authorized.) Tj (\224) Tj T* (Build the capability to distinguish sanctioned automation from an) Tj T* (assumed credential.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 69.75 cm
+Q
+q
+1 0 0 1 454.6 69.75 cm
+Q
+q
+1 0 0 1 7 17.5 cm
+q
+.419608 .396078 .376471 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.7 Tf 11.5 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 31 17.75 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 6 cm
+q
+.164706 .145098 .12549 rg
+BT 1 0 0 1 0 25.8 Tm /F1 8.7 Tf 11.5 TL (Offboard NHIs on a lifecycle tied to the service, test revocation \(know) Tj T* (what breaks and what inherits\), and run dormant-identity sweeps. Rank) Tj T* (by exposure: overprivileged + long-lived + unmonitored = highest.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 376.6 23.25 cm
+Q
+q
+1 0 0 1 454.6 23.25 cm
+Q
+q
+1 J
+1 j
+.811765 .8 .780392 RG
+.5 w
+n 0 448.5 m 525.6 448.5 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 448.5 l S
+n 525.6 0 m 525.6 448.5 l S
+n 0 430.5 m 525.6 430.5 l S
+n 0 384 m 525.6 384 l S
+n 0 349 m 525.6 349 l S
+n 0 302.5 m 525.6 302.5 l S
+n 0 267.5 m 525.6 267.5 l S
+n 0 232.5 m 525.6 232.5 l S
+n 0 186 m 525.6 186 l S
+n 0 139.5 m 525.6 139.5 l S
+n 0 93 m 525.6 93 l S
+n 0 46.5 m 525.6 46.5 l S
+n 24 0 m 24 448.5 l S
+n 72 0 m 72 448.5 l S
+n 369.6 0 m 369.6 448.5 l S
+n 447.6 0 m 447.6 448.5 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 761 612 31 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 766 612 26 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 766 m
+612 766 l
+S
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 40 774 Tm
+(WHEN AI ATTACKS\231) Tj
+T*
+ET
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 123.104 774 Tm
+(   \267   Digital Content \0437   \267   AI Threat Assessment Workbook   \267   Non\055Human Identities) Tj
+T*
+ET
+BT
+1 0 0 1 551.984 774 Tm
+(4 of 4) Tj
+T*
+ET
+1 1 1 rg
+n
+0 0 612 36 re
+f*
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks\231   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+1 1 1 rg
+n
+37 239 245 14 re
+f*
+0.545098 0.180392 0.180392 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 40 241 Tm
+(Assessment prepared by Matsui LLC  \267  matsuihq\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000439 00000 n 
+0000009808 00000 n 
+0000009915 00000 n 
+0000010022 00000 n 
+0000010134 00000 n 
+0000010246 00000 n 
+0000010362 00000 n 
+0000010620 00000 n 
+0000021550 00000 n 
+0000021808 00000 n 
+0000030568 00000 n 
+0000030826 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+40510
+%%EOF

@@ -1,0 +1,2255 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7939
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 744 cm
+Q
+q
+1 0 0 1 45.6 730 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (THREAT ASSESSMENT WORKBOOK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 727 cm
+Q
+q
+1 0 0 1 45.6 714 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Digital Content #6 \227 Shadow Agents: You Didn\222t Authorize This Agent. It Didn\222t Wait for You To.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 706 cm
+Q
+q
+1 0 0 1 45.6 636 cm
+.909804 .909804 .92549 rg
+n 0 0 532.8 70 re f*
+.545098 .180392 .180392 rg
+n 0 0 4.5 70 re f*
+q
+1 0 0 1 22.5 14 cm
+q
+BT 1 0 0 1 0 33.5 Tm 14 TL /F2 8.5 Tf .101961 .101961 .180392 rg (Purpose:) Tj /F1 8.5 Tf ( Assess your organization\222s exposure to Shadow Agent threats \227 where an unauthorized autonomous AI agent,) Tj T* (connected to corporate systems via OAuth delegation, takes actions on behalf of employees without security review or governance) Tj T* (oversight. Map the detection gap, assign ownership, and build a prioritized response plan.) Tj T* ET
+Q
+Q
+Q
+q
+1 0 0 1 45.6 624 cm
+Q
+q
+1 0 0 1 45.6 612 cm
+Q
+q
+1 0 0 1 39.6 593 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Exposure Check) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 591.2 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 577.2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F3 8 Tf 11 TL (Answer Yes / No / Unknown for your environment. Every Unknown is a gap. Three or more Unknowns = this is your next tabletop agenda.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 572.2 cm
+Q
+q
+1 0 0 1 39.6 268.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 304 532.8 -20 re f*
+1 1 1 rg
+n 0 284 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 250 532.8 -34 re f*
+1 1 1 rg
+n 0 216 532.8 -46 re f*
+.968627 .956863 .937255 rg
+n 0 170 532.8 -34 re f*
+1 1 1 rg
+n 0 136 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 102 532.8 -34 re f*
+1 1 1 rg
+n 0 68 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 34 532.8 -34 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 289 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 289 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281.76 289 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.12 289 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Do we have a current inventory of third-party AI agents connected) Tj T* (to corporate systems via OAuth?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 279 cm
+Q
+q
+1 0 0 1 281.76 279 cm
+Q
+q
+1 0 0 1 309.12 279 cm
+Q
+q
+1 0 0 1 6 221 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Can we identify every active OAuth token and map third-party) Tj T* (client IDs to the approved vendor list?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 245 cm
+Q
+q
+1 0 0 1 281.76 245 cm
+Q
+q
+1 0 0 1 309.12 245 cm
+Q
+q
+1 0 0 1 6 175 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Do we know which employees have connected AI agents with) Tj T* (delegated access to sensitive systems \(email, financial portals,) Tj T* (CRM, document stores\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 211 cm
+Q
+q
+1 0 0 1 281.76 211 cm
+Q
+q
+1 0 0 1 309.12 211 cm
+Q
+q
+1 0 0 1 6 141 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Are agent actions logged separately from human actions, or are) Tj T* (they attributed to the employee\222s credential?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 165 cm
+Q
+q
+1 0 0 1 281.76 165 cm
+Q
+q
+1 0 0 1 309.12 165 cm
+Q
+q
+1 0 0 1 6 107 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Does our SIEM or identity platform surface AI agent behavior as) Tj T* (distinct from authorized human activity?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 131 cm
+Q
+q
+1 0 0 1 281.76 131 cm
+Q
+q
+1 0 0 1 309.12 131 cm
+Q
+q
+1 0 0 1 6 73 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Do we have a sanctioned AI agent authorization workflow \(name,) Tj T* (vendor, scope, security review\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 97 cm
+Q
+q
+1 0 0 1 281.76 97 cm
+Q
+q
+1 0 0 1 309.12 97 cm
+Q
+q
+1 0 0 1 6 39 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Does our Acceptable Use Policy explicitly address autonomous AI) Tj T* (agents \227 not just software?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 63 cm
+Q
+q
+1 0 0 1 281.76 63 cm
+Q
+q
+1 0 0 1 309.12 63 cm
+Q
+q
+1 0 0 1 6 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Have we trained employees that authorizing an AI agent extends) Tj T* (their attack surface to their inbox?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 29 cm
+Q
+q
+1 0 0 1 281.76 29 cm
+Q
+q
+1 0 0 1 309.12 29 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 304 m 532.8 304 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 304 l S
+n 532.8 0 m 532.8 304 l S
+n 0 284 m 532.8 284 l S
+n 0 250 m 532.8 250 l S
+n 0 216 m 532.8 216 l S
+n 0 170 m 532.8 170 l S
+n 0 136 m 532.8 136 l S
+n 0 102 m 532.8 102 l S
+n 0 68 m 532.8 68 l S
+n 0 34 m 532.8 34 l S
+n 248.4 0 m 248.4 304 l S
+n 275.76 0 m 275.76 304 l S
+n 303.12 0 m 303.12 304 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 260.2 cm
+Q
+q
+1 0 0 1 45.6 251.2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (AGENT INVENTORY \(list known AI agents with delegated access, permission scope, and current status\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 248.2 cm
+Q
+q
+1 0 0 1 39.6 188.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 60 532.8 -20 re f*
+1 1 1 rg
+n 0 40 532.8 -10 re f*
+.968627 .956863 .937255 rg
+n 0 30 532.8 -10 re f*
+1 1 1 rg
+n 0 20 532.8 -10 re f*
+.968627 .956863 .937255 rg
+n 0 10 532.8 -10 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Agent Name / Tool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Connected Systems / Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.8 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Sanctioned?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 348 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+Q
+q
+1 0 0 1 114 35 cm
+Q
+q
+1 0 0 1 286.8 35 cm
+Q
+q
+1 0 0 1 348 35 cm
+Q
+q
+1 0 0 1 6 25 cm
+Q
+q
+1 0 0 1 114 25 cm
+Q
+q
+1 0 0 1 286.8 25 cm
+Q
+q
+1 0 0 1 348 25 cm
+Q
+q
+1 0 0 1 6 15 cm
+Q
+q
+1 0 0 1 114 15 cm
+Q
+q
+1 0 0 1 286.8 15 cm
+Q
+q
+1 0 0 1 348 15 cm
+Q
+q
+1 0 0 1 6 5 cm
+Q
+q
+1 0 0 1 114 5 cm
+Q
+q
+1 0 0 1 286.8 5 cm
+Q
+q
+1 0 0 1 348 5 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 60 m 532.8 60 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 60 l S
+n 532.8 0 m 532.8 60 l S
+n 0 40 m 532.8 40 l S
+n 0 30 m 532.8 30 l S
+n 0 20 m 532.8 20 l S
+n 0 10 m 532.8 10 l S
+n 108 0 m 108 60 l S
+n 280.8 0 m 280.8 60 l S
+n 342 0 m 342 60 l S
+Q
+Q
+Q
+.101961 .101961 .101961 rg
+n 0 766.08 612 25.92 re f*
+.545098 .180392 .180392 RG
+1 w
+n 0 766.08 m 612 766.08 l S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 775.08 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 134.64 775.08 Tm (\267  Digital Content #6  \267  Threat Assessment Workbook  \267  Shadow Agents) Tj T* ET
+BT 1 0 0 1 552.384 775.08 Tm (1 of 4) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 612 24.48 re f*
+.533333 .533333 .533333 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 39.6 9.36 Tm (When AI Attacks by Matsui Trust Intelligence  \267  \251 2026 Matsui LLC. All rights reserved.) Tj T* ET
+BT 1 0 0 1 524.352 9.36 Tm (whenaiattacks.ai) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 9870
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 738 cm
+Q
+q
+1 0 0 1 39.6 719 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+BT 1 0 0 1 0 4 Tm 17 TL /F2 13 Tf .066667 .066667 .066667 rg (OAuth & Permission Audit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 717.2 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 692.2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 14 Tm /F3 8 Tf 11 TL (Shadow Agents operate inside the employee\222s permission envelope. Audit the scope of delegated access and the platforms in scope for each) Tj T* (agent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 687.2 cm
+Q
+q
+1 0 0 1 39.6 463.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 224 532.8 -20 re f*
+1 1 1 rg
+n 0 204 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 170 532.8 -34 re f*
+1 1 1 rg
+n 0 136 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 102 532.8 -34 re f*
+1 1 1 rg
+n 0 68 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 34 532.8 -34 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 209 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 209 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281.76 209 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.12 209 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 175 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (For each known agent, has the full OAuth permission scope been) Tj T* (reviewed by security?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 199 cm
+Q
+q
+1 0 0 1 281.76 199 cm
+Q
+q
+1 0 0 1 309.12 199 cm
+Q
+q
+1 0 0 1 6 141 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Are agents with access to financial systems, client portals, or) Tj T* (sensitive data stores identified?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 165 cm
+Q
+q
+1 0 0 1 281.76 165 cm
+Q
+q
+1 0 0 1 309.12 165 cm
+Q
+q
+1 0 0 1 6 107 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Is there a process to detect permission scope creep as agents) Tj T* (accumulate access across integrated platforms?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 131 cm
+Q
+q
+1 0 0 1 281.76 131 cm
+Q
+q
+1 0 0 1 309.12 131 cm
+Q
+q
+1 0 0 1 6 73 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Can we identify agents connected to enterprise automation) Tj T* (platforms \(Zapier, Make, Power Automate\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 97 cm
+Q
+q
+1 0 0 1 281.76 97 cm
+Q
+q
+1 0 0 1 309.12 97 cm
+Q
+q
+1 0 0 1 6 39 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Is there alerting when a new OAuth grant is made to an) Tj T* (unrecognized third-party client ID?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 63 cm
+Q
+q
+1 0 0 1 281.76 63 cm
+Q
+q
+1 0 0 1 309.12 63 cm
+Q
+q
+1 0 0 1 6 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Have we assessed whether prompt injection via corporate email) Tj T* (can reach any connected agent?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 29 cm
+Q
+q
+1 0 0 1 281.76 29 cm
+Q
+q
+1 0 0 1 309.12 29 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 224 m 532.8 224 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 224 l S
+n 532.8 0 m 532.8 224 l S
+n 0 204 m 532.8 204 l S
+n 0 170 m 532.8 170 l S
+n 0 136 m 532.8 136 l S
+n 0 102 m 532.8 102 l S
+n 0 68 m 532.8 68 l S
+n 0 34 m 532.8 34 l S
+n 248.4 0 m 248.4 224 l S
+n 275.76 0 m 275.76 224 l S
+n 303.12 0 m 303.12 224 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 455.2 cm
+Q
+q
+1 0 0 1 45.6 446.2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 7 Tf 9 TL (PERMISSION SCOPE REVIEW: For each high-risk agent, document delegated access and approval status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 443.2 cm
+Q
+q
+1 0 0 1 39.6 383.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 60 532.8 -30 re f*
+1 1 1 rg
+n 0 30 532.8 -10 re f*
+.968627 .956863 .937255 rg
+n 0 20 532.8 -10 re f*
+1 1 1 rg
+n 0 10 532.8 -10 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Agent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Systems with Delegated Access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 236.4 35 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 12.5 Tm /F2 7.5 Tf 10 TL (Scope Reviewed by) Tj T* (Security?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.6 45 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Gap / Action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+Q
+q
+1 0 0 1 85.2 25 cm
+Q
+q
+1 0 0 1 236.4 25 cm
+Q
+q
+1 0 0 1 333.6 25 cm
+Q
+q
+1 0 0 1 6 15 cm
+Q
+q
+1 0 0 1 85.2 15 cm
+Q
+q
+1 0 0 1 236.4 15 cm
+Q
+q
+1 0 0 1 333.6 15 cm
+Q
+q
+1 0 0 1 6 5 cm
+Q
+q
+1 0 0 1 85.2 5 cm
+Q
+q
+1 0 0 1 236.4 5 cm
+Q
+q
+1 0 0 1 333.6 5 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 60 m 532.8 60 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 60 l S
+n 532.8 0 m 532.8 60 l S
+n 0 30 m 532.8 30 l S
+n 0 20 m 532.8 20 l S
+n 0 10 m 532.8 10 l S
+n 79.2 0 m 79.2 60 l S
+n 230.4 0 m 230.4 60 l S
+n 327.6 0 m 327.6 60 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 373.2 cm
+Q
+q
+1 0 0 1 45.6 361.2 cm
+Q
+q
+1 0 0 1 39.6 342.2 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Detection Baseline) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 340.4 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 315.4 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 14 Tm /F3 8 Tf 11 TL (Standard monitoring is built for unauthorized access. Shadow Agents use authorized credentials \227 no alert fires. Detection requires identity-aware) Tj T* (agent monitoring and OAuth audit cadence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 310.4 cm
+Q
+q
+1 0 0 1 39.6 52.4 cm
+q
+.101961 .101961 .101961 rg
+n 0 258 532.8 -20 re f*
+1 1 1 rg
+n 0 238 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 204 532.8 -34 re f*
+1 1 1 rg
+n 0 170 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 136 532.8 -34 re f*
+1 1 1 rg
+n 0 102 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 68 532.8 -34 re f*
+1 1 1 rg
+n 0 34 532.8 -34 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 243 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 243 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281.76 243 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.12 243 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Unknown / Gap Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 209 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Does your SIEM differentiate between actions taken by a human) Tj T* (vs. an AI agent on the same credential?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 233 cm
+Q
+q
+1 0 0 1 281.76 233 cm
+Q
+q
+1 0 0 1 309.12 233 cm
+Q
+q
+1 0 0 1 6 175 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Is there an OAuth token review cadence that would surface) Tj T* (unrecognized third-party client IDs?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 199 cm
+Q
+q
+1 0 0 1 281.76 199 cm
+Q
+q
+1 0 0 1 309.12 199 cm
+Q
+q
+1 0 0 1 6 141 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Do you have AI agent behavioral monitoring deployed for agents) Tj T* (with access to sensitive systems?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 165 cm
+Q
+q
+1 0 0 1 281.76 165 cm
+Q
+q
+1 0 0 1 309.12 165 cm
+Q
+q
+1 0 0 1 6 107 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Is there detection for prompt injection via email targeting agents) Tj T* (connected to corporate systems?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 131 cm
+Q
+q
+1 0 0 1 281.76 131 cm
+Q
+q
+1 0 0 1 309.12 131 cm
+Q
+q
+1 0 0 1 6 73 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Can your DLP controls detect data movement initiated by an agent) Tj T* (vs. a human on the same platform?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 97 cm
+Q
+q
+1 0 0 1 281.76 97 cm
+Q
+q
+1 0 0 1 309.12 97 cm
+Q
+q
+1 0 0 1 6 39 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Is there alerting for an agent drafting or sending communications) Tj T* (outside its normal pattern?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 63 cm
+Q
+q
+1 0 0 1 281.76 63 cm
+Q
+q
+1 0 0 1 309.12 63 cm
+Q
+q
+1 0 0 1 6 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Have you tested detection capability with a simulated Shadow) Tj T* (Agent scenario?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 254.4 29 cm
+Q
+q
+1 0 0 1 281.76 29 cm
+Q
+q
+1 0 0 1 309.12 29 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 258 m 532.8 258 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 258 l S
+n 532.8 0 m 532.8 258 l S
+n 0 238 m 532.8 238 l S
+n 0 204 m 532.8 204 l S
+n 0 170 m 532.8 170 l S
+n 0 136 m 532.8 136 l S
+n 0 102 m 532.8 102 l S
+n 0 68 m 532.8 68 l S
+n 0 34 m 532.8 34 l S
+n 248.4 0 m 248.4 258 l S
+n 275.76 0 m 275.76 258 l S
+n 303.12 0 m 303.12 258 l S
+Q
+Q
+Q
+.101961 .101961 .101961 rg
+n 0 766.08 612 25.92 re f*
+.545098 .180392 .180392 RG
+1 w
+n 0 766.08 m 612 766.08 l S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 775.08 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 134.64 775.08 Tm (\267  Digital Content #6  \267  Threat Assessment Workbook  \267  Shadow Agents) Tj T* ET
+BT 1 0 0 1 552.384 775.08 Tm (2 of 4) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 612 24.48 re f*
+.533333 .533333 .533333 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 39.6 9.36 Tm (When AI Attacks by Matsui Trust Intelligence  \267  \251 2026 Matsui LLC. All rights reserved.) Tj T* ET
+BT 1 0 0 1 524.352 9.36 Tm (whenaiattacks.ai) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 7938
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 738 cm
+Q
+q
+1 0 0 1 39.6 719 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Governance Gap \227 Who Owns What) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 717.2 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 692.2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 14 Tm /F3 8 Tf 11 TL (Shadow Agent\222s access was authorized. The employee granted it. Map ownership across the identity, policy, and IR surface before an incident) Tj T* (surfaces the gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 687.2 cm
+Q
+q
+1 0 0 1 39.6 419.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 268 532.8 -30 re f*
+1 1 1 rg
+n 0 238 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 204 532.8 -34 re f*
+1 1 1 rg
+n 0 170 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 136 532.8 -34 re f*
+1 1 1 rg
+n 0 102 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 68 532.8 -34 re f*
+1 1 1 rg
+n 0 34 532.8 -34 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 253 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 253 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Owner \(Name / Role\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 265.2 243 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 12.5 Tm /F2 7.5 Tf 10 TL (Last) Tj T* (Reviewed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.4 253 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Gap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 209 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (OAuth token inventory and third-party) Tj T* (agent audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 233 cm
+Q
+q
+1 0 0 1 265.2 233 cm
+Q
+q
+1 0 0 1 326.4 233 cm
+Q
+q
+1 0 0 1 6 175 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (AI agent authorization workflow and) Tj T* (sanctioned vendor list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 199 cm
+Q
+q
+1 0 0 1 265.2 199 cm
+Q
+q
+1 0 0 1 326.4 199 cm
+Q
+q
+1 0 0 1 6 141 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Acceptable Use Policy \227 autonomous) Tj T* (agent clause) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 165 cm
+Q
+q
+1 0 0 1 265.2 165 cm
+Q
+q
+1 0 0 1 326.4 165 cm
+Q
+q
+1 0 0 1 6 107 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Identity governance \227 human-delegated) Tj T* (agent scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 131 cm
+Q
+q
+1 0 0 1 265.2 131 cm
+Q
+q
+1 0 0 1 326.4 131 cm
+Q
+q
+1 0 0 1 6 73 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Incident response \227 agent-in-chain) Tj T* (determination) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 97 cm
+Q
+q
+1 0 0 1 265.2 97 cm
+Q
+q
+1 0 0 1 326.4 97 cm
+Q
+q
+1 0 0 1 6 39 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (BEC training update \227 agent as proxy) Tj T* (attack surface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 63 cm
+Q
+q
+1 0 0 1 265.2 63 cm
+Q
+q
+1 0 0 1 326.4 63 cm
+Q
+q
+1 0 0 1 6 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Vendor security review \227 AI agent) Tj T* (category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.4 29 cm
+Q
+q
+1 0 0 1 265.2 29 cm
+Q
+q
+1 0 0 1 326.4 29 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 268 m 532.8 268 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 268 l S
+n 532.8 0 m 532.8 268 l S
+n 0 238 m 532.8 238 l S
+n 0 204 m 532.8 204 l S
+n 0 170 m 532.8 170 l S
+n 0 136 m 532.8 136 l S
+n 0 102 m 532.8 102 l S
+n 0 68 m 532.8 68 l S
+n 0 34 m 532.8 34 l S
+n 158.4 0 m 158.4 268 l S
+n 259.2 0 m 259.2 268 l S
+n 320.4 0 m 320.4 268 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 409.2 cm
+Q
+q
+1 0 0 1 45.6 397.2 cm
+Q
+q
+1 0 0 1 39.6 378.2 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Five Questions for Your Next Executive Meeting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 376.4 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 39.6 123.4 cm
+q
+.101961 .101961 .101961 rg
+n 0 250 532.8 -20 re f*
+1 1 1 rg
+n 0 230 532.8 -46 re f*
+.968627 .956863 .937255 rg
+n 0 184 532.8 -58 re f*
+1 1 1 rg
+n 0 126 532.8 -34 re f*
+.968627 .956863 .937255 rg
+n 0 92 532.8 -46 re f*
+1 1 1 rg
+n 0 46 532.8 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Your Answer / Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 189 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Do we have an inventory of AI agents operating in our) Tj T* (environment with delegated access to employee) Tj T* (credentials and corporate systems?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 225 cm
+Q
+q
+1 0 0 1 6 167 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 131 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 40 Tm /F1 8 Tf 12 TL (If an employee\222s AI agent took an unauthorized action) Tj T* (today \227 sent an email, moved data, initiated a transaction) Tj T* (\227 how long before we would know, and how would we) Tj T* (reconstruct what happened?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 179 cm
+Q
+q
+1 0 0 1 6 109 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 97 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 16 Tm /F1 8 Tf 12 TL (Does our Acceptable Use Policy address autonomous AI) Tj T* (agents specifically, or only unauthorized software?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 121 cm
+Q
+q
+1 0 0 1 6 75 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 51 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Are we training employees that authorizing an AI agent to) Tj T* (act on their behalf extends their attack surface to every) Tj T* (instruction that agent can receive?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 87 cm
+Q
+q
+1 0 0 1 6 29 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (What is the business justification for the AI tools currently) Tj T* (operating in our environment with the broadest permission) Tj T* (scopes?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.56 41 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 250 m 532.8 250 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 250 l S
+n 532.8 0 m 532.8 250 l S
+n 0 230 m 532.8 230 l S
+n 0 184 m 532.8 184 l S
+n 0 126 m 532.8 126 l S
+n 0 92 m 532.8 92 l S
+n 0 46 m 532.8 46 l S
+n 30.24 0 m 30.24 250 l S
+n 250.56 0 m 250.56 250 l S
+Q
+Q
+Q
+.101961 .101961 .101961 rg
+n 0 766.08 612 25.92 re f*
+.545098 .180392 .180392 RG
+1 w
+n 0 766.08 m 612 766.08 l S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 775.08 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 134.64 775.08 Tm (\267  Digital Content #6  \267  Threat Assessment Workbook  \267  Shadow Agents) Tj T* ET
+BT 1 0 0 1 552.384 775.08 Tm (3 of 4) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 612 24.48 re f*
+.533333 .533333 .533333 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 39.6 9.36 Tm (When AI Attacks by Matsui Trust Intelligence  \267  \251 2026 Matsui LLC. All rights reserved.) Tj T* ET
+BT 1 0 0 1 524.352 9.36 Tm (whenaiattacks.ai) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 9412
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 738 cm
+Q
+q
+1 0 0 1 39.6 719 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.36 2 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Directives \227 Assign an Owner and a Date) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 717.2 cm
+q
+.8 w
+1 J
+.545098 .180392 .180392 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 39.6 176.2 cm
+q
+.101961 .101961 .101961 rg
+n 0 538 532.8 -30 re f*
+1 1 1 rg
+n 0 508 532.8 -58 re f*
+.968627 .956863 .937255 rg
+n 0 450 532.8 -58 re f*
+1 1 1 rg
+n 0 392 532.8 -46 re f*
+.968627 .956863 .937255 rg
+n 0 346 532.8 -58 re f*
+1 1 1 rg
+n 0 288 532.8 -46 re f*
+.968627 .956863 .937255 rg
+n 0 242 532.8 -46 re f*
+1 1 1 rg
+n 0 196 532.8 -58 re f*
+.968627 .956863 .937255 rg
+n 0 138 532.8 -46 re f*
+1 1 1 rg
+n 0 92 532.8 -46 re f*
+.968627 .956863 .937255 rg
+n 0 46 532.8 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 523 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 513 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 12.5 Tm /F2 7.5 Tf 10 TL (Audie) Tj T* (nce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 523 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Directive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 523 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Owner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.8 523 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 7.5 Tf 10 TL (Done By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 491 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 491 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 455 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 40 Tm /F1 8 Tf 12 TL (Run an OAuth inventory. Pull every active token across your identity) Tj T* (platform. Map every third-party client ID to the approved vendor list.) Tj T* (Flag every unrecognized ID as a potential shadow agent with) Tj T* (delegated access to human credentials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 503 cm
+Q
+q
+1 0 0 1 394.8 503 cm
+Q
+q
+1 0 0 1 6 433 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 433 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 397 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 40 Tm /F1 8 Tf 12 TL (Establish a sanctioned AI agent authorization workflow before) Tj T* (restricting access. Agent name, vendor, permission scope, business) Tj T* (justification, security review. Make the sanctioned path easier than) Tj T* (the shadow path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 445 cm
+Q
+q
+1 0 0 1 394.8 445 cm
+Q
+q
+1 0 0 1 6 375 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 375 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 351 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Update the Acceptable Use Policy with an explicit agent authorization) Tj T* (clause. Name autonomous action specifically \227 not just data access.) Tj T* (Most AUPs address tools that store data. This one acts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 387 cm
+Q
+q
+1 0 0 1 394.8 387 cm
+Q
+q
+1 0 0 1 6 329 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 329 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 293 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 40 Tm /F1 8 Tf 12 TL (Extend your NHI program to include human-delegated AI agents. A) Tj T* -0.093818 Tw (third-party agent under a human OAuth token is a non-human actor in) Tj T* 0 Tw (a human identity envelope. Governance controls need to account for) Tj T* (agent behavior, not just credential validity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 341 cm
+Q
+q
+1 0 0 1 394.8 341 cm
+Q
+q
+1 0 0 1 6 271 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 271 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 247 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Add a distinct AI agent review tier to your vendor security framework) Tj T* (\227 separate from SaaS. These tools process instructions and take) Tj T* (autonomous action based on what they read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 283 cm
+Q
+q
+1 0 0 1 394.8 283 cm
+Q
+q
+1 0 0 1 6 225 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 225 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 201 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Update IR methodology: for every incident involving AI-assisted) Tj T* (workflows, explicitly determine whether an autonomous agent was in) Tj T* (the action chain. Make it a required IR step, not an optional check.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 237 cm
+Q
+q
+1 0 0 1 394.8 237 cm
+Q
+q
+1 0 0 1 6 179 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 179 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 143 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 40 Tm /F1 8 Tf 12 TL (Update BEC training to address agent-mediated attacks. Employees) Tj T* (who authorize agents must understand that an attacker who reaches) Tj T* (their inbox now reaches their agent. The phishing target is the) Tj T* (human\222s autonomous proxy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 191 cm
+Q
+q
+1 0 0 1 394.8 191 cm
+Q
+q
+1 0 0 1 6 121 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 121 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 97 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Stop attributing agent actions to the human credential. Build the) Tj T* (capability to distinguish human-initiated from agent-initiated actions) Tj T* (on delegated OAuth tokens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 133 cm
+Q
+q
+1 0 0 1 394.8 133 cm
+Q
+q
+1 0 0 1 6 75 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 75 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 51 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Rank agents by exposure: highest permission scope + broadest) Tj T* (OAuth delegation + no behavioral monitoring = highest Shadow) Tj T* (Agent exposure. Close governance gaps from the top.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 87 cm
+Q
+q
+1 0 0 1 394.8 87 cm
+Q
+q
+1 0 0 1 6 29 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36.24 29 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL (IR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.24 5 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 28 Tm /F1 8 Tf 12 TL (Run a cross-functional accountability exercise: if an employee\222s) Tj T* (agent initiated a wire transfer today based on a phishing email, who) Tj T* (detects it, who owns the response, and what do we tell the board?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330 41 cm
+Q
+q
+1 0 0 1 394.8 41 cm
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.3 w
+n 0 538 m 532.8 538 l S
+n 0 0 m 532.8 0 l S
+n 0 0 m 0 538 l S
+n 532.8 0 m 532.8 538 l S
+n 0 508 m 532.8 508 l S
+n 0 450 m 532.8 450 l S
+n 0 392 m 532.8 392 l S
+n 0 346 m 532.8 346 l S
+n 0 288 m 532.8 288 l S
+n 0 242 m 532.8 242 l S
+n 0 196 m 532.8 196 l S
+n 0 138 m 532.8 138 l S
+n 0 92 m 532.8 92 l S
+n 0 46 m 532.8 46 l S
+n 30.24 0 m 30.24 538 l S
+n 66.24 0 m 66.24 538 l S
+n 324 0 m 324 538 l S
+n 388.8 0 m 388.8 538 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 156.2 cm
+Q
+q
+1 0 0 1 39.6 127.2 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 8 cm
+q
+.545098 .180392 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Matsui Trust Intelligence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 266.4 8 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL 220.383 0 Td (matsuihq.ai) Tj T* -220.383 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .796078 .768627 RG
+.5 w
+n 0 29 m 532.8 29 l S
+Q
+Q
+Q
+.101961 .101961 .101961 rg
+n 0 766.08 612 25.92 re f*
+.545098 .180392 .180392 RG
+1 w
+n 0 766.08 m 612 766.08 l S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 39.6 775.08 Tm (WHEN AI ATTACKS) Tj T* ET
+.533333 .533333 .533333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 134.64 775.08 Tm (\267  Digital Content #6  \267  Threat Assessment Workbook  \267  Shadow Agents) Tj T* ET
+BT 1 0 0 1 552.384 775.08 Tm (4 of 4) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 612 24.48 re f*
+.533333 .533333 .533333 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 39.6 9.36 Tm (When AI Attacks by Matsui Trust Intelligence  \267  \251 2026 Matsui LLC. All rights reserved.) Tj T* ET
+BT 1 0 0 1 524.352 9.36 Tm (whenaiattacks.ai) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.101961 0.101961 rg
+n
+0 0 612 24 re
+f*
+0.545098 0.180392 0.180392 RG
+1 w
+n
+0 24 m
+612 24 l
+S
+0.533333 0.533333 0.533333 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 40 8.5 Tm
+(When AI Attacks   \174   Assessment prepared by Matsui\231   \174   Built on the principles of Adaptive Trust Intelligence\231) Tj
+T*
+ET
+BT
+1 0 0 1 523.952 8.5 Tm
+(whenaiattacks\056ai) Tj
+T*
+ET
+1 1 1 rg
+n
+38 133 532 17 re
+f*
+0.545098 0.180392 0.180392 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 40 139 Tm
+(Assessment prepared by Matsui LLC  \267  matsuihq\056ai) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000439 00000 n 
+0000008430 00000 n 
+0000008537 00000 n 
+0000008644 00000 n 
+0000008756 00000 n 
+0000008868 00000 n 
+0000008984 00000 n 
+0000009242 00000 n 
+0000019165 00000 n 
+0000019423 00000 n 
+0000027414 00000 n 
+0000027672 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+37137
+%%EOF
